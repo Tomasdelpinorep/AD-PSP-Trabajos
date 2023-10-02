@@ -1,0 +1,1 @@
+INSERT INTO gallipato (id,nombre,tags) VALUES (NEXT_VAL('place_seq'), 'Diao', 'bello,hermoso,betico');

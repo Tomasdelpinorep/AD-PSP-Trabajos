@@ -1,10 +1,10 @@
-package salesianos.triana.dam.MonumentosMundoTomasDelPino;
+package com.salesianostriana.dam.APIRestCompletaLugares;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MonumentosMundoTomasDelPinoApplicationTests {
+class ApiRestCompletaLugaresApplicationTests {
 
 	@Test
 	void contextLoads() {

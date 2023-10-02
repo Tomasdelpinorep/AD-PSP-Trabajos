@@ -8,10 +8,10 @@
 		<version>3.1.4</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>salesianos.triana.dam</groupId>
-	<artifactId>MonumentosMundoTomasDelPino</artifactId>
+	<groupId>com.salesianostriana.dam</groupId>
+	<artifactId>APIRestCompletaLugares</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>MonumentosMundoTomasDelPino</name>
+	<name>APIRestCompletaLugares</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>
